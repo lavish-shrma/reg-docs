@@ -4,9 +4,6 @@
 
 
 
-
-
-
 A Retrieval-Augmented Generation (RAG) application built for learning and experimentation using the Google Gemini API (Free Tier) and FAISS.
 
 The project lets you ingest PDF documents, store their embeddings locally, and chat with them using semantic search and an LLM. It’s designed to be simple, readable, and easy to extend while exploring modern RAG workflows.
@@ -27,14 +24,22 @@ The project lets you ingest PDF documents, store their embeddings locally, and c
 
 🛠️ Technology Stack
 Tool	Purpose
+
 🐍 Python	Core application logic
+
 🤖 Google Gemini API	Language model (Free Tier)
+
 🔎 FAISS	Vector similarity search
+
 📄 PDF Processing	Document ingestion
+
 🔐 python-dotenv	Environment variable management
+
 📦 Installation
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+
+git clone https://github.com/lavish-shrma/reg-docs.git
 cd your-repo-name
 
 2️⃣ Create a Virtual Environment
