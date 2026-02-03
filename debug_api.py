@@ -1,7 +1,14 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
 
-API_KEY = "REDACTED"
+load_dotenv()
+
+API_KEY = os.getenv("GOOGLE_API_KEY")
+if not API_KEY:
+    raise ValueError("GOOGLE_API_KEY not found in .env file")
+
 URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
 
 headers = {
