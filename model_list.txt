@@ -1,0 +1,120 @@
+Name: models/gemini-2.5-flash
+Display: Gemini 2.5 Flash
+Description: Stable version of Gemini 2.5 Flash, our mid-size multimodal model that supports up to 1 million tokens, released in June of 2025.
+--------------------
+Name: models/gemini-2.5-pro
+Display: Gemini 2.5 Pro
+Description: Stable release (June 17th, 2025) of Gemini 2.5 Pro
+--------------------
+Name: models/gemini-2.0-flash
+Display: Gemini 2.0 Flash
+Description: Gemini 2.0 Flash
+--------------------
+Name: models/gemini-2.0-flash-001
+Display: Gemini 2.0 Flash 001
+Description: Stable version of Gemini 2.0 Flash, our fast and versatile multimodal model for scaling across diverse tasks, released in January of 2025.
+--------------------
+Name: models/gemini-2.0-flash-exp-image-generation
+Display: Gemini 2.0 Flash (Image Generation) Experimental
+Description: Gemini 2.0 Flash (Image Generation) Experimental
+--------------------
+Name: models/gemini-2.0-flash-lite-001
+Display: Gemini 2.0 Flash-Lite 001
+Description: Stable version of Gemini 2.0 Flash-Lite
+--------------------
+Name: models/gemini-2.0-flash-lite
+Display: Gemini 2.0 Flash-Lite
+Description: Gemini 2.0 Flash-Lite
+--------------------
+Name: models/gemini-exp-1206
+Display: Gemini Experimental 1206
+Description: Experimental release (March 25th, 2025) of Gemini 2.5 Pro
+--------------------
+Name: models/gemini-2.5-flash-preview-tts
+Display: Gemini 2.5 Flash Preview TTS
+Description: Gemini 2.5 Flash Preview TTS
+--------------------
+Name: models/gemini-2.5-pro-preview-tts
+Display: Gemini 2.5 Pro Preview TTS
+Description: Gemini 2.5 Pro Preview TTS
+--------------------
+Name: models/gemma-3-1b-it
+Display: Gemma 3 1B
+Description: 
+--------------------
+Name: models/gemma-3-4b-it
+Display: Gemma 3 4B
+Description: 
+--------------------
+Name: models/gemma-3-12b-it
+Display: Gemma 3 12B
+Description: 
+--------------------
+Name: models/gemma-3-27b-it
+Display: Gemma 3 27B
+Description: 
+--------------------
+Name: models/gemma-3n-e4b-it
+Display: Gemma 3n E4B
+Description: 
+--------------------
+Name: models/gemma-3n-e2b-it
+Display: Gemma 3n E2B
+Description: 
+--------------------
+Name: models/gemini-flash-latest
+Display: Gemini Flash Latest
+Description: Latest release of Gemini Flash
+--------------------
+Name: models/gemini-flash-lite-latest
+Display: Gemini Flash-Lite Latest
+Description: Latest release of Gemini Flash-Lite
+--------------------
+Name: models/gemini-pro-latest
+Display: Gemini Pro Latest
+Description: Latest release of Gemini Pro
+--------------------
+Name: models/gemini-2.5-flash-lite
+Display: Gemini 2.5 Flash-Lite
+Description: Stable version of Gemini 2.5 Flash-Lite, released in July of 2025
+--------------------
+Name: models/gemini-2.5-flash-image
+Display: Nano Banana
+Description: Gemini 2.5 Flash Preview Image
+--------------------
+Name: models/gemini-2.5-flash-preview-09-2025
+Display: Gemini 2.5 Flash Preview Sep 2025
+Description: Gemini 2.5 Flash Preview Sep 2025
+--------------------
+Name: models/gemini-2.5-flash-lite-preview-09-2025
+Display: Gemini 2.5 Flash-Lite Preview Sep 2025
+Description: Preview release (Septempber 25th, 2025) of Gemini 2.5 Flash-Lite
+--------------------
+Name: models/gemini-3-pro-preview
+Display: Gemini 3 Pro Preview
+Description: Gemini 3 Pro Preview
+--------------------
+Name: models/gemini-3-flash-preview
+Display: Gemini 3 Flash Preview
+Description: Gemini 3 Flash Preview
+--------------------
+Name: models/gemini-3-pro-image-preview
+Display: Nano Banana Pro
+Description: Gemini 3 Pro Image Preview
+--------------------
+Name: models/nano-banana-pro-preview
+Display: Nano Banana Pro
+Description: Gemini 3 Pro Image Preview
+--------------------
+Name: models/gemini-robotics-er-1.5-preview
+Display: Gemini Robotics-ER 1.5 Preview
+Description: Gemini Robotics-ER 1.5 Preview
+--------------------
+Name: models/gemini-2.5-computer-use-preview-10-2025
+Display: Gemini 2.5 Computer Use Preview 10-2025
+Description: Gemini 2.5 Computer Use Preview 10-2025
+--------------------
+Name: models/deep-research-pro-preview-12-2025
+Display: Deep Research Pro Preview (Dec-12-2025)
+Description: Preview release (December 12th, 2025) of Deep Research Pro
+--------------------

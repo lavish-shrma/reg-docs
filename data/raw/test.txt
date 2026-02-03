@@ -1,0 +1,6 @@
+This is a test document for a RAG system.
+
+RAG stands for Retrieval Augmented Generation.
+It allows an AI model to answer questions using external documents.
+
+This project is built using Python, LangChain, OpenAI, and FAISS.
